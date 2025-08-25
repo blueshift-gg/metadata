@@ -1,0 +1,25 @@
+{
+  "name": "Pinocchio Quantum Vault",
+  "description": "This NFT certifies that the owner has completed the Pinocchio Quantum Vault challenge on Blueshift.gg",
+  "image": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/quantum-vault.png",
+  "external_url": "https://learn.blueshift.gg/en/challenges/pinocchio-quantum-vault",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Pinocchio"
+    },
+    {
+      "trait_type": "Difficult",
+      "value": "Intermediate"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/blueshift-gg/metadata/master/pinocchio/quantum-vault.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
